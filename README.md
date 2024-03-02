@@ -1,1 +1,2 @@
-# chatmate
+# TalkSphere
+web chat application
